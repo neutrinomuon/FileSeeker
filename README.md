@@ -65,7 +65,6 @@ Example of the FileSeeker script in python
 
 <pre>
 #################################################
-#################################################
 FileSeeker
 ├── README.md
 ├── figures
