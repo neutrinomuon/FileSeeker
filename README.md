@@ -3,7 +3,7 @@ email: [antineutrinomuon@gmail.com](mailto:antineutrinomuon@gmail.com), [jean@as
 
 last stable version: 0.0.2
 
-In &beta; distribution phase - The README file is not complete. Conda is not exported yet. Tutorials will be made asap.
+Under &beta; distribution phase - The README file is not complete. Conda is not exported yet. Tutorials will be made asap.
 
 github repository: <a href='https://github.com/neutrinomuon/FileSeeker/'>FileSeeker</a>
 
@@ -21,8 +21,8 @@ J.G. - Jean Gomes
 
 <img src="https://raw.githubusercontent.com/neutrinomuon/FileSeeker/main/figures/FileSeeker.png" width=120>
 
-Enhance your directory tree visualization with colorful representations using
-TreeHue, a Python package that brings vibrancy to your file system structure.
+Search in your directory and subdirectories recursively to find a file with a
+given pattern.
 
 <hr>
 
