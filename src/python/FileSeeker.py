@@ -50,10 +50,10 @@ class FileSeeker( object ):
 
         return found_files
 
+# Example of how to use
 # Directory to search in
-#search_directory = "/home/jean/Pynoptic/PyReadSpectra"
+#search_directory = "./"
 # Search word
 #search_word = "libcfiletype"
-
 #r_object = FileSeeker( search_word,search_dir=search_directory )
 #r_object.seeker_files
