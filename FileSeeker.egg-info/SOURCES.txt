@@ -1,0 +1,11 @@
+LICENSE.txt
+README.md
+setup.py
+version.txt
+FileSeeker.egg-info/PKG-INFO
+FileSeeker.egg-info/SOURCES.txt
+FileSeeker.egg-info/dependency_links.txt
+FileSeeker.egg-info/requires.txt
+FileSeeker.egg-info/top_level.txt
+src/python/FileSeeker.py
+src/python/__init__.py
