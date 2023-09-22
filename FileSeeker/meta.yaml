@@ -9,8 +9,8 @@ package:
 source:
   fn: "{{ name }}-{{ version }}.tar.gz"
   url: "{{ url }}"
-  sha256: febe8796484b5d629d1fbf36d53c3e60888cf6d0451b49b18bfccb5e3735eaf7
-
+  sha256: 6c265ab018b5d6307055cca37f5d99a19196198b7b777ff0660e77b61cfee49c
+  
 build:
   number: 0
   script: "{{ PYTHON }} -m pip install . -vv"

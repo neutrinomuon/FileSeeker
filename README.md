@@ -3,7 +3,7 @@ email: [antineutrinomuon@gmail.com](mailto:antineutrinomuon@gmail.com), [jean@as
 
 last stable version: 0.0.2
 
-Under &beta; distribution phase - The README file is not complete. Conda is not exported yet. Tutorials will be made asap.
+Under &beta; distribution phase - The README file is not complete. Tutorials will be made asap.
 
 github repository: <a href='https://github.com/neutrinomuon/FileSeeker/'>FileSeeker</a>
 
