@@ -24,6 +24,12 @@ J.G. - Jean Gomes
 Search in your directory and subdirectories recursively to find a file with a
 given pattern.
 
+Now, in agreement with PEP 8 guidelines:
+
+--------------------------------------------------------------------<br>
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)<br>
+
+
 <hr>
 
 #### <b>INSTALLATION</b>
